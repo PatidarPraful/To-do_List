@@ -1,0 +1,49 @@
+#main-head
+{
+    height : calc(100vh - 54px);
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/168/328/977/hacking-hackers-v-for-vendetta-wallpaper-preview.jpg);
+    background-size: cover;
+}
+
+.page-section
+{
+    padding: 6rem 0;
+}
+
+.tagline
+{
+    margin-top: 1em;
+}
+
+#tag
+{
+    font-size: 5em;
+}
+#abc
+{
+    font-family: monospace;
+}
+#details
+{
+    width: 50%;
+}
+#login-window
+{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+#foot
+{
+ display: flex;
+ justify-content: space-around;
+ flex-direction: row;   
+}
+
+.iconss a
+{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
